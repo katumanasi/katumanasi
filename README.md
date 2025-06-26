@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/manasikatu" target="blank"><img src="https://img.shields.io/twitter/follow/manasikatu?logo=twitter&style=for-the-badge" alt="manasikatu" /></a> </p>
 
-- 🔭 I’m currently working on **Air bnb**
+- 🔭 I’m currently working on FullStack
 
 - 🌱 I’m currently learning **React,Express,API**
 
